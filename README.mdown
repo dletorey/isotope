@@ -1,4 +1,4 @@
-# Isotope Dave
+# Isotope
 
 _Filter & sort magical layouts_
 
