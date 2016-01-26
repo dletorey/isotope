@@ -1,4 +1,4 @@
-# Isotope - Davexxx
+# Isotope - Dave Demoing Git Bridge
 
 _Filter & sort magical layouts_
 
